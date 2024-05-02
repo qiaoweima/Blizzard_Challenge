@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dee18239-246d-46eb-b3bd-672c6d6d63c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2021/model.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2021/model.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2023/model.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2023/model.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2023/train.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/config/bc2023/train.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/g2p.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/g2p.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/hifigan/generator_LJSpeech.pth.tar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/hifigan/generator_universal.pth.tar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/fastspeech2.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/fastspeech2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/model/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/AISHELL3/speakers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/AISHELL3/stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/AISHELL3/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/AISHELL3/val.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LJSpeech/speakers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LJSpeech/stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LJSpeech/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LJSpeech/val.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LibriTTS/speakers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LibriTTS/stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LibriTTS/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessed_data/LibriTTS/val.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessor/preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/preprocessor/preprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/synthesis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/synthesis.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/synthesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/synthesize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/text/symbols.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/text/symbols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/train_bc2023.sh" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/train_bc2023.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/Models.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/Models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/Modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/transformer/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/utils/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/utils/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/utils/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2/utils/tools.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FastSpeech2_bc/FastSpeech2" />
+  </component>
+  <component name="ProjectId" id="2fucgpwqYAZJdP0a3cvGxZ7DL9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee18239-246d-46eb-b3bd-672c6d6d63c4" name="Changes" comment="" />
+      <created>1714654518926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714654518926</updated>
+    </task>
+    <servers />
+  </component>
+</project>
