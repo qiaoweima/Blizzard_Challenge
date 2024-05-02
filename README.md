@@ -1,6 +1,7 @@
 # The code for Blizzard Challenge
 ### 环境配置
 ```
+cd FastSpeech2_bc/FastSpeech2
 pip install -r requirements.txt
 ```
 
