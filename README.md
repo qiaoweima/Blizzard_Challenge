@@ -5,16 +5,10 @@ cd FastSpeech2_bc/FastSpeech2
 pip install -r requirements.txt
 ```
 
-### 下载预训练模型
+### 训练脚本
 
-预训练模型获取链接如下：
+FastSpeech2训练脚本：train_bc2023.sh（在FastSpeech2文件夹下）
 
-https://pan.baidu.com/s/1XCW9O5YBkn8K3T_aY_GVBA?pwd=1nfy
+HiFi-GAN训练脚本：train_hifigan_bc2023（在根目录下的hifi-gan文件夹下）
 
-下载文件夹后将其放置在项目根目录下即可。
-
-### 开启服务
-```
-(CUDA_VISIBLE_DEVICES=1) python infer_server.py
-```
-括号内为指定在哪一块显卡上运行，可加可不加，是为了防止在第一块显卡上有程序在运行，本asr服务所需显存不够，则可指定其余空闲的显卡来提供服务
+语音合成脚本：synthesis.sh（在FastSpeech2文件夹下）
